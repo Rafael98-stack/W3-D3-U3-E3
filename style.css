@@ -1,0 +1,33 @@
+
+
+ div {
+    background-color: blueviolet;
+    width: 500px;
+    height: 100vh;
+    margin: 100px auto;
+    border-radius: 30px;
+    text-align: center;
+}
+h1 {
+   padding: 30px;
+   color: white;
+}
+label {
+    color: white;
+}
+#buttonArea {
+    display: inline;
+}
+.card {
+    display: ;
+    width: 500px;
+    height: 100px;
+    margin: 0 auto;
+}
+h2 {
+    color: black;
+    padding: 20px;
+}
+button {
+    cursor: pointer;
+}
